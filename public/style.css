@@ -1,0 +1,58 @@
+h1 {
+  font-family: 'Rock Salt', cursive;
+  text-align: center;
+  font-size: 225%;
+}
+
+h2 {
+  font-family: 'Krub', sans-serif;
+  text-align: center;
+  color: rgb(204, 170, 69);
+}
+
+h3 {
+  padding-left: 3%;
+  color: rgb(204, 170, 69);
+}
+
+p {
+  padding-left: 3%;
+  padding-right: 5%;
+  padding-bottom: 2%;
+  line-height: 180%;
+  text-align: left;
+}
+
+body {
+  font-family: 'Krub', sans-serif;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
+
+nav {
+  padding-top: 3%;
+  padding-bottom: 5%;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 150%;
+}
+
+ol {
+  padding-right: 6%;
+  padding-left: 6%;
+  line-height: 180%;
+}
+
+a {
+text-decoration: none;
+  color: Gray;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(204, 170, 69);
+}
